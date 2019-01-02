@@ -1,7 +1,7 @@
 # Data_for_DBH-Manuscript_PLoS_One
 Data for PLoS One manuscript entitled
 
-## A Single Nucleotide Polymorphism in Dopamine Beta Hydroxylase (rs6271(C>T)) is Over-represented in Inflammatory Bowel Disease Patients and Reduces Circulating Enzyme.##
+### A Single Nucleotide Polymorphism in Dopamine Beta Hydroxylase (rs6271(C>T)) is Over-represented in Inflammatory Bowel Disease Patients and Reduces Circulating Enzyme.
 
 Eugene.Gonzalez-Lopez 1, Yuka.Kawasawa-Imamura 1, 2, Lijun.Zhang 2, 3, Xuemei.Huang 1, 4, 5, Walter.A.Koltun 6, Matthew.D. Coates *, 6§ & Kent.E.Vrana*, 1§
 
