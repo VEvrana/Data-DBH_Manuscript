@@ -31,3 +31,6 @@ Note for rigor and reproducibility one of the patient sample MC09 was duplicated
 **NeuroX Genotyping Data Acquisition and Analysis of Control Samples:** Single-nucleotide polymorphism (SNP) genotyping on 74 control patients population was performed on whole blood DNA samples extracted by the National Institute of Neurological Disorders and Stroke (NINDS) Parkinson's Disease Biomarkers Program (PDBP) using the Illumina NeuroX array. A total of 269,476 variants were genotyped, and the Genotyping Analysis Module within Genome Studio version 1.9.4 was used to call participant genotypes. We specifically extracted the DβH SNP data from the NINDS NeuroX genotyping data. For rigor and reproducibility, a TaqMan SNP Genotyping assays designed against the rs6271 and rs77905 SNPs (Life Technologies, Thermo Fisher Scientific, Grand Island, NY) were used to verify the DβH genotype of each patient and control. DβH genotypes that were analyzed by TaqMan matched 100% to the targeted exome sequencing results
 
 ***File 2 Taqman_And_NeuroX_DBH_Control_n74.xlsx***
+
+## Citation Information: 
+Gonzalez-Lopez E, Imamura Kawasawa Y, Zhang L,  Huang X, Koltun WA, Coates MD and  Vrana KE (2019)A Single Nucleotide Polymorphism in Dopamine Beta Hydroxylase (rs6271(C>T)) is Over-represented in Inflammatory Bowel Disease Patients and Reduces Circulating Enzyme. PLoS ONE
